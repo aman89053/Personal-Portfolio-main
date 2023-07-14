@@ -3,13 +3,11 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import bootstrap from "../assets/bootstrap.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import git from "../assets/git.png";
 import npm from "../assets/npm.png";
 import vscode from "../assets/vscode.png";
-import photoshop from "../assets/photoshop.png";
 import netlify from "../assets/netlify.png";
 import aws from "../assets/aws.png"
 import figma from "../assets/figma.png"
