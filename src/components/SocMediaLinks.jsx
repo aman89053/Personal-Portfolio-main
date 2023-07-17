@@ -40,7 +40,7 @@ const SocMediaLinks = () => {
           Resume <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Rahmath_Irshad_Resume.pdf",
+      href: "/Aman_Agrawal_Resume.pdf",
       style: "rounded-br-md",
       download: true,
     },

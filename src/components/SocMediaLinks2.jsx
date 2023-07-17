@@ -12,7 +12,7 @@ const SocMediaLinks = () => {
         <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/Rahmath_Irshad_Resume.pdf",
+      href: "/Aman_Agrawal_Resume.pdf",
       download: true,
     },
     {
@@ -22,7 +22,7 @@ const SocMediaLinks = () => {
           <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/rahmath-irshad-74781988/",
+      href: "https://www.linkedin.com/in/aman-agrawal-402702165",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocMediaLinks = () => {
         <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/Rahmathirshad",
+      href: "https://github.com/aman89053",
     },
     {
       id: 4,
@@ -40,7 +40,7 @@ const SocMediaLinks = () => {
         <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:rahmathirshad@gmail.com",
+      href: "mailto:aman89053@gmail.com",
     },
   ];
 
