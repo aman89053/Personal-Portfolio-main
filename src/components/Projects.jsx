@@ -26,7 +26,7 @@ const Projects = () => {
       id: 3,
       name: "Personal Portfolio",
       src: personalportfolio,
-      hrefLive: "https://rahmathirshad.netlify.app/",
+      hrefLive: "https://aman89053-portfolio.netlify.app/",
       hrefCode: "https://github.com/aman89053/Personal-Portfolio-main",
     },
     {
